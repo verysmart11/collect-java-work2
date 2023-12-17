@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="kotlin-test-junit5">
+    <CLASSES>
+      <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-test-junit5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
